@@ -96,7 +96,7 @@ public class Cryptography extends JFrame implements ActionListener {
 		enc = new JButton("Encrypt");
 		enc.setForeground(Color.BLUE);
 		enc.setEnabled(false);
-		denc = new JButton("Dencrypt");
+		denc = new JButton("Decrypt");
 		denc.setForeground(Color.BLUE);
 		denc.setEnabled(false);
 		cancel = new JButton("Cancel");
